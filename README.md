@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akshay5208e
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Mern Stack
+-  I’m a Software Developer. I am proficinet in MERN Stack Development and Game Development
+
 
 
 <!---
